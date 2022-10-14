@@ -42,6 +42,9 @@ gem "tzinfo-data"
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
+#Will paginate
+gem 'will_paginate', '~> 3.3'
+
 #Webpacker
 #gem 'webpacker', '~> 4.0'
 
